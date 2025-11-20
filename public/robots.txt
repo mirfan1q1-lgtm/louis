@@ -1,4 +1,4 @@
-# robots.txt for LOUIS - Learning Operation Unified Interactive System
+# robots.txt for LOUIS / LOUISE LMS
 User-agent: *
 Allow: /
 Disallow: /teacher/
@@ -7,5 +7,5 @@ Disallow: /login
 Disallow: /login-siswa
 
 # Sitemap
-Sitemap: https://louis-lms.com/sitemap.xml
+Sitemap: https://louise.my.id/sitemap.xml
 

@@ -51,8 +51,8 @@ import './UnifiedLogin.css';
 export default function UnifiedLogin() {
   useSEO({
     title: 'Login',
-    description: 'Masuk ke LOUIS - Learning Operation Unified Interactive System. Platform LMS untuk guru dan siswa.',
-    keywords: 'login LOUIS, masuk LMS, login guru, login siswa, autentikasi LOUIS',
+    description: 'Masuk ke LOUIS (Louise) LMS di louise.my.id. Akses dashboard guru dan siswa dalam satu platform pembelajaran digital.',
+    keywords: 'login LOUIS, login Louise LMS, louis lms, louise lms, masuk LMS guru, masuk LMS siswa, autentikasi louise.my.id',
   });
   const navigate = useNavigate();
   const { loginTeacher, loginStudent, loading } = useUnifiedAuth();

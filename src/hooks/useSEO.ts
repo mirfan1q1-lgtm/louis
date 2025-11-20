@@ -11,9 +11,9 @@ interface SEOProps {
   canonical?: string;
 }
 
-const DEFAULT_TITLE = 'LOUIS - Learning Operation Unified Interactive System';
-const DEFAULT_DESCRIPTION = 'LOUIS (Learning Operation Unified Interactive System) adalah platform LMS modern untuk guru dan siswa. Kelola kelas, tugas, absensi, dan komunikasi pembelajaran dengan mudah.';
-const DEFAULT_KEYWORDS = 'LOUIS, Learning Management System, LMS, Sistem Pembelajaran, Pendidikan Online, Manajemen Kelas, Tugas Online, Absensi Digital, Platform Pendidikan';
+const DEFAULT_TITLE = 'LOUIS (LOUISE) - Learning Operation Unified Interactive System';
+const DEFAULT_DESCRIPTION = 'LOUIS (Louise) LMS di louise.my.id adalah platform pembelajaran digital modern untuk guru dan siswa. Kelola kelas, tugas, absensi, leaderboard, dan komunikasi pembelajaran dalam satu dashboard.';
+const DEFAULT_KEYWORDS = 'LOUIS LMS, Louise LMS, louis lms, louise lms, louise.my.id, Learning Management System Indonesia, Sistem Pembelajaran Digital, Platform Pendidikan Modern, Manajemen Kelas Online, Absensi Digital, Tugas Online';
 
 export function useSEO({
   title,

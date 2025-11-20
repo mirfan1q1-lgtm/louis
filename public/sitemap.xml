@@ -6,26 +6,34 @@
   
   <!-- Homepage / Login -->
   <url>
-    <loc>https://louis-lms.com/</loc>
-    <lastmod>2025-01-25</lastmod>
+    <loc>https://louise.my.id/</loc>
+    <lastmod>2025-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <!-- Login Pages -->
   <url>
-    <loc>https://louis-lms.com/login</loc>
-    <lastmod>2025-01-25</lastmod>
+    <loc>https://louise.my.id/login</loc>
+    <lastmod>2025-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://louis-lms.com/login-siswa</loc>
-    <lastmod>2025-01-25</lastmod>
+    <loc>https://louise.my.id/login-siswa</loc>
+    <lastmod>2025-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
+  <!-- Legacy domain reference -->
+  <url>
+    <loc>https://louis-lms.com/</loc>
+    <lastmod>2025-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
 </urlset>
 
