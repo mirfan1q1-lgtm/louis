@@ -1,0 +1,11 @@
+# robots.txt for LOUIS - Learning Operation Unified Interactive System
+User-agent: *
+Allow: /
+Disallow: /teacher/
+Disallow: /student/
+Disallow: /login
+Disallow: /login-siswa
+
+# Sitemap
+Sitemap: https://louis-lms.com/sitemap.xml
+
